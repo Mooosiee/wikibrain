@@ -1,4 +1,4 @@
-# Graph-RAG Agent Memory Service
+# WikiBrain - Graph-RAG Agent Memory Service
 
 A local-first learning project that demonstrates how an AI agent can store and retrieve useful context between tasks. Memories are Markdown files in an Obsidian-compatible vault, linked with `[[wikilinks]]`, and exposed through a Node.js REST API, JavaScript SDK, CLI, MCP server, and browser visualizer.
 
