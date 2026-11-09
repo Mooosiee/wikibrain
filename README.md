@@ -243,8 +243,8 @@ Provider model IDs and API bases can be overridden with the variables documented
 ### 8.2 Install & Choose a Vault
 
 ```bash
-git clone https://github.com/Juixe7/Graph-RAG-Agent-Memory-Service.git
-cd Graph-RAG-Agent-Memory-Service
+git clone https://github.com/Mooosiee/wikibrain.git
+cd wikibrain
 ```
 
 The project has no required npm dependencies, so `npm install` is not needed. It includes sample Markdown notes under `vault/`. To use another vault, set `BRAIN_VAULT` to its path before starting the server.
